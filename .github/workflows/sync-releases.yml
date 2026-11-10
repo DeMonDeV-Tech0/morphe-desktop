@@ -1,4 +1,4 @@
-name: Sync Ghidra Releases
+name: Sync morphe-desktop Releases
 
 on:
   workflow_dispatch:
